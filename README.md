@@ -4,7 +4,7 @@
 ## Screenshots
 
 ### Firebase Database
-<img src="https://user-images.githubusercontent.com/68338038/194556664-8a662592-15c6-4ae6-8403-181d00f6891d.png" width="300" height="500" />
+<img src="https://user-images.githubusercontent.com/68338038/194556664-8a662592-15c6-4ae6-8403-181d00f6891d.png" width="900" height="500" />
 
 ### UI 1
 <img src="https://user-images.githubusercontent.com/68338038/194557221-ee82f276-a580-4cd5-9bb3-30bdda1cebd4.jpg" width="300" height="500" />
